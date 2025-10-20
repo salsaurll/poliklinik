@@ -1,4 +1,4 @@
-{{-- <h2>Login</h2>
+<!-- {{-- <h2>Login</h2>
 
 @if ($errors->any())
 <p style="color:red">{{ $errors->first() }}</p> 
@@ -13,7 +13,7 @@
     <input type="password" name="password" required><br><br>
 
     <button type="submit">Login</button>
-</form> --}}
+</form> --}} -->
 
 <x-layouts.guest>
     <div class="login-box d-flex flex-column justify-content-center align-items-center w-100 vh-100">

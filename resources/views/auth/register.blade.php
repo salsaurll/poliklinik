@@ -1,4 +1,4 @@
-{{-- <h2>Register</h2> --}}
+<!-- {{-- <h2>Register</h2> --}}
 
 {{-- @if ($errors->any())
     <ul style="color:red">
@@ -34,7 +34,7 @@
     <button type="submit">Daftar</button>
 </form>
 
-<p>Sudah punya akun? <a href="{{route('login') }}"><b>Login</b></a></p>
+<p>Sudah punya akun? <a href="{{route('login') }}"><b>Login</b></a></p> -->
 
 <x-layouts.guest>
     <div class="login-box d-flex flex-column justify-content-center align-items-center w-100 vh-100">
