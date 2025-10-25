@@ -4,7 +4,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DokterController;
 use App\Http\Controllers\PoliController;
 use App\Http\Controllers\ObatController;
-// use App\Http\Controllers\PasienController;
+use App\Http\Controllers\PasienController;
 use App\Models\Obat;
 use Illuminate\Support\Facades\Route;
 
